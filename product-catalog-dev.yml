@@ -8,7 +8,7 @@ spring:
 #jpa specific properties
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
     show-sql: true
 
 message: in development profile  - updated
