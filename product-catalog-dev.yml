@@ -11,4 +11,4 @@ spring:
       ddl-auto: create
     show-sql: true
 
-message: in development profile  - refreshscopr check
+message: in development profile  - Check Refresh Scope
